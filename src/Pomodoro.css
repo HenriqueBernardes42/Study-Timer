@@ -1,0 +1,15 @@
+.Pomodoro{
+    background-color: #62b993;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 33vh;
+    color: aliceblue;
+    flex-direction: column;
+}
+
+img{
+    width: 200px;
+}
